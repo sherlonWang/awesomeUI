@@ -165,6 +165,9 @@ body {
     position: relative;
     top: -1px;
 }
+.sidebar-nav .preview i{
+    font-size: 16px;
+}
 
 .sidebar-nav .view {
     display: none;
